@@ -6,7 +6,7 @@
 
 - 💻 Flutter developer & Trainer
 - 🌱 Learning **Something New**
-- 🇵🇰 Faisalabad, Punjab, Pakistan
-- 📱 (+92) 32 60150 103
+- 🇵🇰  Faisalabad, Punjab, Pakistan
+- 📱  (+92) 3260150103
 
 
